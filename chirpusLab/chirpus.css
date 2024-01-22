@@ -1,0 +1,41 @@
+html {
+  font-family: "Open Sans";
+}
+.line {
+  color: #69696a;
+}
+.upperButton {
+  background-color: #000;
+  color: #fff;
+  border-radius: 50px;
+  width: 100%;
+}
+.lowerButton {
+  background-color: #000;
+  color: #fff;
+  border-radius: 15px;
+  width: 100%;
+}
+ul {
+  list-style-type: none;
+}
+.paragraph {
+  background-color: #f9fafc;
+  color: #69696a;
+  border-left: solid 10px #000;
+  font-family: "Open Sans";
+}
+footer {
+  background-color: rgb(247, 193, 162, 0.7);
+  width: 100%;
+  position: fixed;
+}
+.title1 {
+  color: #000;
+}
+.title2 {
+  color: #000;
+}
+a {
+  text-decoration: none !important;
+}
