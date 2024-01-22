@@ -1,4 +1,4 @@
-.html {
+html {
   font-family: "Open Sans";
 }
 .line {
@@ -28,11 +28,9 @@ ul {
 footer {
   background-color: rgb(247, 193, 162, 0.7);
   position: fixed;
-  left: 0;
   bottom: 0;
   width: 100%;
-  color: white;
-  text-align: center;
+  text-align: right;
 }
 
 .title1 {
