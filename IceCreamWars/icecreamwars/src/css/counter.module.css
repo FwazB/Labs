@@ -1,0 +1,17 @@
+.header {
+  font: "Roboto";
+  font-size: medium;
+  font-weight: 400px;
+  color: blueviolet;
+  box-shadow: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.theAd {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+}

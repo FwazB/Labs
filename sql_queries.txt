@@ -37,7 +37,7 @@ SELECT order_id, AVG(quantity) AS average_quantity, MAX(quantity) AS max_quantit
 -- Find the customer_id that placed order 10290 (orders table).
 SELECT customer_id FROM orders WHERE order_id = 10290;
 
--- Do an inner join, left join, right join on orders and customers tables. (These are three separate queries, one for each type of join.)
+-- Do an inner join, left join, right join on orders and customers tables.
 -- Inner Join
 SELECT * FROM orders INNER JOIN customers ON orders.customer_id = customers.customer_id;
 
